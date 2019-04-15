@@ -1,8 +1,5 @@
 # Random-Sampling-With-A-Reservoir
-Source code written in java and python for random sampling without replacement with a reservoir. 
-It randomly choose a sample of k items from a file containing n items. Typically n is large enough 
-that it doesn't fit into the main memory. This algorithm is also suitable for streaming data, a feture
-that will be added in future versions
+Code for random sampling without replacement with a reservoir. It randomly choose a sample of k items from a file containing n items. Typically n is large enough that it doesn't fit into the main memory. This algorithm is also suitable for streaming data
 
 
 ## Getting Started
@@ -46,5 +43,5 @@ Licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for detai
 
 ## Acknowledgments
 
-* This little project was inspire from the Princeton course [Algorithms I](https://www.coursera.org/learn/algorithms-part1)
+* This short project was inspire from the Princeton course [Algorithms I](https://www.coursera.org/learn/algorithms-part1)
 
